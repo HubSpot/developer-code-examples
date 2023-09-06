@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "FulFillment",
+    "uid": "fulfillment_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "card-frontend.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "companies" 
+      }
+    ]
+  }
+}

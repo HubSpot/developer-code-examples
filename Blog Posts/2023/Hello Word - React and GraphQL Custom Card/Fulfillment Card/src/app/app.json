@@ -1,0 +1,25 @@
+{
+  "name": "Fulfillment Card",
+  "description": "This app powers a custom card for shipping fulfillment operations at a company.",
+  "scopes": [
+    "crm.objects.companies.read",
+    "crm.objects.companies.write",
+    "collector.graphql_schema.read",
+    "collector.graphql_query.execute",
+    "crm.objects.custom.write",
+    "crm.objects.custom.read",
+    "crm.schemas.custom.read",
+    "crm.schemas.custom.write"
+  ],
+  "uid" : "fulfillment_card_app",
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/fulfillment-card.json"
+        }
+      ]
+    }
+  }
+}
