@@ -1,17 +1,10 @@
-# HubSpot Getting Started Project Template
+# Hello World: Creating Your First React + GraphQL Custom Card for HubSpot’s CRM
+![Hello World: Creating Your First React + GraphQL Custom Card for HubSpot’s CRM"](https://developers.hubspot.com/hubfs/Developer%20Blog/2023/09/Hello%20World_%20Creating%20Your%20First%20React%20+%20GraphQL%20Custom%20Card%20for%20HubSpot%E2%80%99s%20CRM-base.jpg#keepProtocol "Hello World: Creating Your First React + GraphQL Custom Card for HubSpot’s CRM")
+This collection supplements the following blog post on the HubSpot Developer Blog:
 
-This is the Getting Started project for HubSpot developer projects. It contains a private app, a CRM card written in React, and a serverless function that the CRM card is able to interact with. This code is intended to help developers get up and running with developer projects quickly and easily.
+https://developers.hubspot.com/blog/hello-world-creating-your-first-react-graphql-custom-card-for-hubspots-crm
 
-## Requirements
-
-There are a few things that must be set up before you can make use of this getting started project.
-
-- You must have an active HubSpot account.
-- You must have the [HubSpot CLI](https://www.npmjs.com/package/@hubspot/cli) installed and set up.
-- You must have access to developer projects (developer projects are currently [in public beta under "CRM Development Tools"](https://app.hubspot.com/l/whats-new/betas)).
-
-## Usage
-
-The HubSpot CLI enables you to run this project locally so that you may test and iterate quickly. Getting started is simple, just run this HubSpot CLI command in your project directory and follow the prompts:
-
-`hs project dev`
+### Additional Information
+**Published:** 2023-09-06  
+**Author:** @ajlaporte  
+**Company/Organization:** @HubSpot
